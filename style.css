@@ -551,3 +551,7 @@ footer .social a:hover {
     --subtitle-font-size: 1.125rem;
   }
 }
+p a{
+  text-decoration: none;
+  color: #fff;
+}
